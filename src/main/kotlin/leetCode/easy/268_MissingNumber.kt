@@ -12,8 +12,3 @@ class MissingNumber {
         return  total - sum
     }
 }
-
-
-fun main() {
-    print("hello")
-}
